@@ -1,0 +1,11 @@
+--- perf-orig.c	2014-08-24 19:19:51.917609262 -0400
++++ perf.c	2014-08-24 19:23:16.633706302 -0400
+@@ -3,7 +3,7 @@
+ #include <math.h>
+ #include <string.h>
+ 
+-#define MAX_ITEMS 500000
++#define MAX_ITEMS   32000000
+ #define MAX_TIES   50000
+ #define MAX_BINS    1000
+ #define debug 0

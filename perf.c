@@ -3,7 +3,7 @@
 #include <math.h>
 #include <string.h>
 
-#define MAX_ITEMS 500000
+#define MAX_ITEMS   32000000
 #define MAX_TIES   50000
 #define MAX_BINS    1000
 #define debug 0
